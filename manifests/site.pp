@@ -1,1 +1,1 @@
-import 'nodes.pp'
+import '/home/murali/puppet/manifests/nodes.pp'

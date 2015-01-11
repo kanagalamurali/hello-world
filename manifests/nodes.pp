@@ -1,5 +1,5 @@
-node 'cookbook' {
+node 'ubuntu1' {
 	file { '/tmp/hello':
-	content => "Hello, World\n",
+		content => "Hello, world\n",
 	}
 }
